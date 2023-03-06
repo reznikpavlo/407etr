@@ -7,7 +7,7 @@ This project was created using Spring boot
 | Link                                            | description                                                               |
 |-------------------------------------------------|---------------------------------------------------------------------------|
 | *[localhost:8080/toll][1]*                      | shows all locations from `interchanges.json` (located in dir `resources`) |
-| *[localhost:8080/toll/{id}] [2]*                | shows one location founded by `id`.                                       |
+| *[localhost:8080/toll/{id}][2]*                | shows one location founded by `id`.                                       |
 | *[localhost:8080/toll/cost/namefrom/nameto][3]* | calculate the rote first param `name from`, and second param `name to`    |
 
 ---
